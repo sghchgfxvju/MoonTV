@@ -76,6 +76,22 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "fczy888": {
+      "api": " https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢片库"
+     },
+    "huyazy": {
+      "api": " https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源" 
+     },
+    "nn": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8",
+      "name": "牛牛资源"
+      },
+    "wolongzy": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "name": "卧龙资源站资源"
     }
   }
 }
